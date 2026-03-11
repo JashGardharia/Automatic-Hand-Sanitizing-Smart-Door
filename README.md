@@ -1,4 +1,4 @@
-## Automatic Hand Sanitizing Smart Door System
+### Automatic Hand Sanitizing Smart Door System
 
 An embedded system that unlocks a door using a keypad password and automatically sanitizes the door handle after use.
 
@@ -56,4 +56,4 @@ Once the correct password is entered through a matrix keypad, the door unlocks. 
 
 ## Author
 
-Embedded Systems Project by Jash.
+Embedded Systems Project by #Jash.
