@@ -56,4 +56,4 @@ Once the correct password is entered through a matrix keypad, the door unlocks. 
 
 ## Author
 
-Embedded Systems Project by #Jash.
+Embedded Systems Project by Jash.
