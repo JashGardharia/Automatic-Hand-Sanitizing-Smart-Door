@@ -52,7 +52,7 @@ Once the correct password is entered through a matrix keypad, the door unlocks. 
 
 # Project Difficulty: Intermediate Embedded System
 
-# Development Time: 2 weeks
+# Development Time: 2 Weeks
 
 ## Author
 
