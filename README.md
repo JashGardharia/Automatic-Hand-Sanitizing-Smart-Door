@@ -54,9 +54,9 @@ Once the correct password is entered through a matrix keypad, the door unlocks. 
 - Face recognition access
 - Usage data logging
 
-# Project Difficulty: Intermediate Embedded System
+## Project Difficulty: Intermediate Embedded System
 
-# Development Time: 2 Weeks
+## Development Time: 2 Weeks
 
 ## Author
 
