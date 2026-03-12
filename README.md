@@ -28,8 +28,8 @@ Once the correct password is entered through a matrix keypad, the door unlocks. 
 - Door Lock Solenoid
 
 <p align="center">
-  <img src="Images/AI_Rendered_Visual.jpg" width="600">
-</p>
+  <img src="Images/AI_Rendered_Visual.jpg" width="600" style="border-radius:15px;">
+</p> 
 
 ## Working Principle
 
