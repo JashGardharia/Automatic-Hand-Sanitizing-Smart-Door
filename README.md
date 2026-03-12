@@ -1,4 +1,4 @@
-# Automatic Hand Sanitizing Smart Door System
+# 🦠 Automatic Hand Sanitizing Smart Door System 🦠
 
 An embedded system that unlocks a door using a keypad password and automatically sanitizes the door handle after use.
 
